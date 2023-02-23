@@ -4,6 +4,7 @@ Calculate the real price of your modded terraria item.
 Input a copper price number to find out how much it actually sells for.
 For Terraria modded items.
 
+Any number below 0 will display incorrect values.
 Any number beyond 9999000000 will always be:
 
 ![image](https://user-images.githubusercontent.com/112866998/221027215-c634fe32-cfaa-496b-a2f1-a082a970cacf.png) 9999
