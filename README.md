@@ -1,4 +1,4 @@
-# ![image](https://raw.githubusercontent.com/ZekusV/Terraria-copper-calculator/main/Gold_Coin.gif) Terraria Copper Calculator ![image](https://raw.githubusercontent.com/ZekusV/Terraria-copper-calculator/main/Gold_Coin.gif)
+# ![image](https://raw.githubusercontent.com/ZekusV/Terraria-copper-calculator/main/Copper_Coin.gif) Terraria Copper Calculator ![image](https://raw.githubusercontent.com/ZekusV/Terraria-copper-calculator/main/Copper_Coin.gif)
 Super simple project made using turbowarp. <br />
 Calculate the real price of your modded terraria item. <br />
 
