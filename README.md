@@ -14,4 +14,5 @@ Any number beyond 9999000000 will always be:
 ![image](https://raw.githubusercontent.com/ZekusV/Terraria-copper-calculator/main/Copper_Coin.gif) 00
 
 
+Click link below to access the calculator.
 WebApp: [Copper Calculator.](https://zekusv.github.io/Terraria-copper-calculator/TerrariaCopperCalculator2.html)
